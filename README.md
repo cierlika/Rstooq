@@ -1,0 +1,2 @@
+# Rstooq
+ Analyze stock data
